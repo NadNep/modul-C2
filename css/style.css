@@ -1,0 +1,86 @@
+body {
+    background-color: #e7a3a3;
+    color: #101312;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+h1 {
+    margin-left: 250px;
+}
+
+.container {
+    width: 70hv;
+    height: 50vh;
+    background-color: #7a3434;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.progress-bar {
+    display: flex;
+    justify-content: flex-start;
+}
+.menubutton {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: auto;
+    width: 150px;
+    height: 50px;
+    background-color: #91caa9;
+    text-align: center;
+    vertical-align: middle;
+    color: #8caf97;
+    padding-top: 10px;
+}
+.menubutton > a{
+    color: #110f0f;
+}
+
+.button2 {
+    width: 150px;
+    height: 50px;
+    background-color: #91caa9;
+    text-align: center;
+    vertical-align: middle;  
+    padding-top: 10px;
+    color: #110f0f;
+    
+}
+.button2 > a{
+    color: #110f0f;
+}
+.vprogr {
+    margin-top: 25px;
+}
+.col-8 {
+    padding-top: 70px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.votingArea {
+    padding-top: 100px;
+}
+
+.Button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+}
+
+.progress-bar {
+    color: rgb(14, 15, 15);
+    font-size: large;
+}
+#Cat.Button {
+    width: 166px;
+    background-color: #3697a8
+}
+#Dog.Button {
+    width: 166px;
+    background-color: #3697a8
+}
+#Parrot.Button {
+    width: 166px;
+    background-color: #3697a8
+}
